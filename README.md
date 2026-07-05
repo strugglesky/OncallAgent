@@ -1,4 +1,4 @@
-# SuperBizAgent
+# OncallAgent
 
 > 基于 Spring Boot + AI Agent 的智能问答与运维系统
 
@@ -34,7 +34,7 @@
 ## 📦 核心模块
 
 ```
-SuperBizAgent/
+OncallAgent/
 ├── src/main/java/org/example/
 │   ├── controller/
 │   │   └── ChatController.java        # 统一接口控制器 ⭐
@@ -191,5 +191,5 @@ curl http://localhost:9900/milvus/health
 
 
 **版本**: v1.0.0  
-**作者**: chief  
+**作者**: strugglesky  
 **许可证**: MIT
