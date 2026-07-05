@@ -56,3 +56,5 @@ uploads/
 /server.pid
 
 /aiops-docs
+
+/src/test
